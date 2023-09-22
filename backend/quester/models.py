@@ -12,5 +12,3 @@ class Quester(models.Model):
         return self.title
 
 
-
-
